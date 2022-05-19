@@ -1,0 +1,4 @@
+2. Что будет выведено на экран в результате выполнения следующего кода?
+print('Mercury', 'Venus', sep='*', end='!')
+print('Mars', 'Jupiter', sep='**', end='?')
+Решение: Mercury*Venus!Mars**Jupiter?
