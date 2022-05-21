@@ -1,0 +1,14 @@
+4. Напишите программу, которая выводит на экран текст «I***like***Python» (без кавычек).
+
+Примечание. Используйте необязательный параметр sep.
+
+Sample Input:
+
+Sample Output:
+
+I***like***Python
+
+Решение:
+
+# put your python code here
+print('I','like','Python', sep='***')
