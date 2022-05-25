@@ -1,0 +1,6 @@
+8. Что покажет приведенный ниже фрагмент кода?
+
+language = 'Python'
+language = 'Pascal'
+print(language)
+Результат: Pascal
