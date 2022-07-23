@@ -1,0 +1,18 @@
+Приведенная ниже таблица истинности показывает разные комбинации истинности и ложности значений, соединённых логическими операторами. Заполните таблицу, выбрав True или False, чтобы показать, является результатом такой комбинации истина или ложь.
+
+
+
+
+
+
+
+True and False – False
+True and True – True
+False and True – False
+False and False – False
+True or False – True
+True or True – True
+False or True – True
+False or False – False
+not True – False
+not False – True
